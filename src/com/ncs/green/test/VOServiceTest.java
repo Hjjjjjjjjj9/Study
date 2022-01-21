@@ -22,7 +22,10 @@ public class VOServiceTest {
 		System.out.println("** VOService 출력 => "+service.getMemberVO());
 		
 		// 4) Git Local Test
-		System.out.println("** commit Test01 성공**");
+		System.out.println("** commit Test01 성공 **");
+		System.out.println("** 여기는 hotfix Branch **");
+		
+		
 		
 	} //main
 
